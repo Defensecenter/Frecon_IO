@@ -987,3 +987,7 @@ https://bitbucket.org/ccleaners/ccleaner/downloads/ccleaner.zip
 http://194.33.191.248:7287/qfqe.docx
 http://194.33.191.248:4449
 https://bitbucket.org/dsnsgovua/dsns/downloads/plan_dsns.gov.ua.rar
+https://64.52.80.30:8080
+http://znuzuy4hkjacew5y2q7mo63hufhzzjtsr2bkjetxqjibk4ctfl7jghyd.onion/
+http://64.52.80.30:8080
+http://digitalcodecrafters.com
