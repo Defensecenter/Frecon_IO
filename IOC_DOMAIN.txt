@@ -1197,3 +1197,4 @@ trilivok.com
 plinqok.com
 moscovatech.com
 xalticainvest.com
+wpstatic.microsoft.com
