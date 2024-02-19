@@ -1258,3 +1258,7 @@ http://84.32.189.74/fxbulls/pictures/photo_2023-12-29.jpg.url
 http://84.32.189.74/fxbulls/images/7z.exe
 http://84.32.189.74/fxbulls/images/photo_2023-12-29.jpg.url
 https://95.179.191.137:5938
+https://perwebsolutions.com/js/
+rtmp://18.142.163.73:1935/live/
+https://usps.mytrackingh.top
+https://u-sipsl.cc
