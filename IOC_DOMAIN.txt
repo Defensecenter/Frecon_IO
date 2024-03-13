@@ -2188,3 +2188,5 @@ dynamiclink.lol/cachingjs/turboturbo.js
 turboturbo.js
 	host.cloudsonicwave.com
 	ttincoming.traveltraffic.cc
+	host.cloudsonicwave.com
+	ttincoming.traveltraffic.cc
