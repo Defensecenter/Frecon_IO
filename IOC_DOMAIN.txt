@@ -2252,3 +2252,9 @@ atlas-aerspace.com
 47nsm239mws934.top
 secure-docsx.com
 rxms.duckdns.org
+	host.cloudsonicwave.com
+	ttincoming.traveltraffic.cc
+	ttincoming.traveltraffic.cc
+	host.cloudsonicwave.com
+	host.cloudsonicwave.com
+	ttincoming.traveltraffic.cc
