@@ -96,3 +96,5 @@ service@helloworldtom.online
 merve@temikan.com.tr
 frevillon.acsitec@proton.me
 nig@gruppe.ru
+test@lufaros.com
+maria@cenacop.com
