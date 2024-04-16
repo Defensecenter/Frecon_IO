@@ -4819,3 +4819,6 @@ cloudflare.pw
 www.donjuguetes.es
 b-connected.com
 www.b-connected.com
+sanzsec.net
+jqueurystatics.com
+cdn.cloudlayerinsights.com
