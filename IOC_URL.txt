@@ -2872,3 +2872,5 @@ http://196.245.156.154/map/title
 https://185.225.114.90/accept
 https://91.92.137.164/json
 https://megolan.egnyte.com/
+http://qcgv5tfer4f46ns6ohh72zeyyh5uavoiybypzpt3lmwk5ecyqykptgqd.onion/files/trifecta.zip
+www.righttrak.net:443
