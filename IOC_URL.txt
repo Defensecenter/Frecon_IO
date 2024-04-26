@@ -2874,3 +2874,9 @@ https://91.92.137.164/json
 https://megolan.egnyte.com/
 http://qcgv5tfer4f46ns6ohh72zeyyh5uavoiybypzpt3lmwk5ecyqykptgqd.onion/files/trifecta.zip
 www.righttrak.net:443
+http://dispossessor-cloud.com/
+https://gitlab.com/wireshark/wireshark/uploads/b4162053fbb4dc6ee4f673c532009e16/
+https://github.com/microsoft/vcpkg/files/14125503/Cheat.Lab.2.7.2.zip
+https://gitlab.com/inkscape/inkscape/uploads/edfdbc997689255568a7c81db3f3dc51/
+https://github.com/microsoft/STL/files/14432565/Cheater.Pro.1.6.0.zip
+http://dispossessor.com/
