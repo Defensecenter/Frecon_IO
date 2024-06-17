@@ -3595,3 +3595,13 @@ http://moon.playstoreapi.net/indigo/8a99d28c.php
 http://www.craftwithme.uk/cwmb/craftwithme/
 https://adb.androidadbserver.com/jurassic/6c67d428.php
 https://dl01.windowsupdatecloud.com/opex/7ab24931.php
+httpsrepo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.14.2.1/sqlite-jdbc-3.14.2.1.jar
+https://javan-demsky.website
+https://linda-gaytan.website
+httpsgithub.com/kristian/system-hook/releases/download/3.5/system-hook-3.5.jar
+httpsrepo1.maven.org/maven2/net/java/dev/jna/jna/5.5.0/jna-5.5.0.jar
+https://digital-apps.store
+https://david-gardiner.website
+https://cecilia-gilbert.com
+httpsrepo1.maven.org/maven2/net/java/dev/jna/jna-platform/5.5.0/jna-platform-5.5.0.jar
+httpip-api.com/json/
