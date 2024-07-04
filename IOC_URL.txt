@@ -3917,3 +3917,11 @@ http://clk-info.site/?status=start&av=Windows%20Defender
 https://getmess.download/Getmess.msix
 https://monkeybeta.com/build/AnyDesk-x86.msix
 https://brow-ser-update.top/GoogleChrome-x86.msix
+http://121.204.249.123/2345.exe
+http://185.73.125.6/output
+http://support.firewallsupportservers.com:80
+http://188.116.22.65:5000/submit
+http://185.173.93.167:13306/Roboform.dll
+http://121.204.249.123:8077/systeminfo.exe
+http://185.173.93.167:13306/WindowsWatcher.key
+http://185.73.125.6/output/
