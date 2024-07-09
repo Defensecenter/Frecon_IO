@@ -7478,3 +7478,9 @@ polyfill-fastly.io
 berrystore.me
 www.edgenext.com
 blog.phylum.io
+lsj.logentr.com
+c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion
+okhyg.unsegin.com
+weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion
+ldn3.p9j32.com
+files.philbendeck.com

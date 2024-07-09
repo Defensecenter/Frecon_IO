@@ -3939,3 +3939,11 @@ https://sansec.io/research/polyfill-supply-chain-attack
 https://pub-8c469686ecb34304864e58edf5ab4597.r2.dev/gystdn.html#yxbyawxacmvzzxrpdgxllmnvbq==
 https://cdn.polyfill.com
 http://91.206.178.125:80
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=[32-characters]
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=77777777777777777777777777777777777777
+http://files.philbendeck.com/about/
+http://files.philbendeck.com/file/
+https://ies.inquirer.com.ph/advprod03/assets/images/advisory23-ucdms04-11-01.zip
+http://files.philbendeck.com/article/
+http://files.philbendeck.com/help/
+http://files.philbendeck.com/
