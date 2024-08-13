@@ -4655,3 +4655,8 @@ http://pcgameloop.com/app/GLP_installer_900221846.exe
 http://yoursearchbar.me/search?q=
 http://7-zip.tw/a/7z2301-x64.msi
 http://185.23.253.143:36731
+https://float-suppose-msg-pulling.trycloudflare.com/
+http://81.19.137.179/api/index.php
+https://master-repogen.vercel.app/file/tmk.scr
+https://master-repogen.vercel.app/file/server.scr
+http://93.185.167.95:9899
