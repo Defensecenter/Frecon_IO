@@ -10827,3 +10827,12 @@ checking-paneling.live
 smaaaal.cfd
 sharedrive.webredirect.org
 s3api.shop
+qw.regsvcast.com
+zx.regsvcast.com
+svchorst.com
+api.s2cloud-amazon.com
+speedshare.oss-cn-hongkong.aliyuncs.com
+wq.regsvcast.com
+as.regsvcast.com
+app-dimensiona.s3.sa-east-1.amazonaws.com
+static.sk-inc.online
