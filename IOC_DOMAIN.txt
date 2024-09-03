@@ -10896,3 +10896,5 @@ softwareservicesupport.azurewebsites.net
 ipcheck.cloud
 getsdervicessupoortss.azurewebsites.net
 invasion-prisoners-inns-aging.trycloudflare.com
+voyagorclub.space
+weinsteinfrog.com
