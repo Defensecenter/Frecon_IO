@@ -4914,3 +4914,9 @@ https://d1209brpqetpa4.cloudfront.net/hubsextension/browse/resourcetype/id.php
 http://noname2j6zkgnt7ftxsjju5tfd3s45s4i3egq5bqtl72kgum4ldc6qyd.onion
 http://122.114.166.92/collectors/3.0/settings/mail/
 http://7tkffbh3qiumpfjfq77plcorjmfohmbj6nwq5je6herbpya6kmgoafid.onion
+https://webhook.site/b6ef7410-9ec8-44f7-8cdf-7890c1cf5837
+https://fedko.org/wp-includes/id3/setup.msi
+https://45.227.255.216:29742/ddqcz2ckw8/setup.msi
+https://185.123.100.160/access/remote access-windows64-offline.exe
+https://www.silentpush.com/blog/scattered-spider/
+http://forward-icloud.com/admin/dashboard/login
