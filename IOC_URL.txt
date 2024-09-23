@@ -4973,3 +4973,12 @@ http://62.133.61.37/Downloads/config.txt.lnk
 http://147.45.50.214/Downloads/demo.pdf.lnk
 http://89.23.103.56/Downloads/Videof/Full%20Video%20HD%20%281080p%29.lnk
 http://92.118.112.253/Downloads/releaseform.pdf.lnk
+https://github.com/tennc/webshell/blob/master/php/wso/wso2.php.
+http://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1
+https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1
+https://support.petition-change.org/unicorn
+https://github.com/NS-Sp4ce/CVE-2021-21972/tree/main/payload/Linux
+https://github.com/stefanpejcic/wordpress-malware
+https://yandex-drive.petition-change.org/file_preview/commecrial_list.pdf
+http://github.com/NS-Sp4ce/CVE-2021-21972/tree/main/payload/Linux
+https://dropmefiles.net/
