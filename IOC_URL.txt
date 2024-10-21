@@ -5364,3 +5364,7 @@ https://meet.google.com-join.us/wmq-qcdn-orj
 http://creativeadb.com:443/n9jtcp62ovc
 https://firebasestorage.googleapis.com/v0/b/drop-a82ec.appspot.com/o/fire?alt=media&token=8c582627-8a00-4e3d-9bc5-9b657ad0f135
 https://googiedrivers.com/fix-error
+http://localtonet.com/download/localtonet-win-64.zip
+http://localtonet.com/nssm-2.24.zip
+https://github.com/ip7z/7zip/releases/download/23.01/7zr.exe
+http://github.com/ip7z/7zip/releases/download/23.01/7zr.exe
