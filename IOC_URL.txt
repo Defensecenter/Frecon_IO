@@ -5859,3 +5859,7 @@ https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-tar
 http://95.164.17.24:1224
 https://www.bellonasoftware.com
 https://ewh.ieee.org/reg/ccece15/files/ccece-word-sample.pdf
+http://88.216.99.5:15707/entry.txt
+https://t.ly/mrabj
+http://88.216.99.5:15707/entry.txt'
+http://api.telegram.org/bot7688244721:aaeuvdgvet2uiymzqjjmsjx1jkfud9pr1xi/senddocument
