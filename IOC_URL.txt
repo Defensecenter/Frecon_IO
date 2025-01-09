@@ -6150,3 +6150,9 @@ weoidnet03.b-cdn.net/iqwjdolx.html
 sys-update-botcheck.b-cdn.net/get-this-puzzle-solved.html
 dedicloadpgeingv5.b-cdn.net/dedicated-captcha-page.html
 https://cryptocedia.com/upgrade/latest.asp
+https://cryptoshiny.com/api
+https://cryptoshiny.com/api/projects/getaddress
+http://t0uxistfm4fo6bg9pjfpdqb1ssyjmfa4.oastify.com
+https://projects.metabest.tech/api
+https://cryptoshiny.com/api/projects/setdata
+https://projects.cryptosnowprince.com/api
