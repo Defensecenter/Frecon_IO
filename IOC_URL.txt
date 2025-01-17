@@ -6169,3 +6169,5 @@ http://194.116.215.195/File.exe
 http://185.215.113.202/tema/rana.exe
 http://147.45.44.104/lopsa/66ea645129e6a_jacobs.exe
 http://147.45.44.104/revada/66f45ebb9b495_crypted_20240925215808.exe#1
+http://107.172.43.186:3939
+http://91.193.19.109:13333
