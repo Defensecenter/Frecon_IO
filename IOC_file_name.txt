@@ -1,1 +1,14 @@
 amd64.exe
+.webhelper.jsp
+config.sh
+forwardsap.jsp
+usage1.jsp
+/tmp/0
+helper.jsp
+webhelp.jsp
+usage.jsp
+/tmp/1
+1.sh
+404_error.jsp
+/tmp/8bq.sh
+.h.jsp
